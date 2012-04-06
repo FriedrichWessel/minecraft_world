@@ -1,95 +1,64 @@
-worlds["Overworld Day"] = "/home/surma/minecraft/minecraft_world/world"
-worlds["Overworld Night"] = "/home/surma/minecraft/minecraft_world/world"
-worlds["Overworld Cave"] = "/home/surma/minecraft/minecraft_world/world"
-worlds["Nether"] = "/home/surma/minecraft/minecraft_world/world_nether"
-worlds["The End"] = "/home/surma/minecraft/minecraft_world/world_the_end"
+worlds["Overworld"] = "world"
+worlds["Nether"] = "world_nether"
+worlds["The End"] = "world_the_end"
 
-processes = 12
-outputdir = "/home/surma/minecraft/rendering"
+processes = 8
+outputdir = "rendering"
 
-# Overworld Day
+# Overworld
 renders["overworld_day_north"] = {
-	"world": "Overworld Day",
+	"world": "Overworld",
 	"title": "North",
 	"rendermode": "smooth_lighting",
 	"northdirection": "upper_left",
 }
 
 renders["overworld_day_east"] = {
-	"world": "Overworld Day",
+	"world": "Overworld",
 	"title": "East",
 	"rendermode": "smooth_lighting",
 	"northdirection": "lower_left",
 }
 
 renders["overworld_day_south"] = {
-	"world": "Overworld Day",
+	"world": "Overworld",
 	"title": "South",
 	"rendermode": "smooth_lighting",
 	"northdirection": "lower_right",
 }
 
 renders["overworld_day_west"] = {
-	"world": "Overworld Day",
+	"world": "Overworld",
 	"title": "West",
 	"rendermode": "smooth_lighting",
 	"northdirection": "upper_right",
 }
 
-# Overworld Night
-renders["overworld_night_north"] = {
-	"world": "Overworld Night",
-	"title": "North",
-	"rendermode": "smooth_night",
-	"northdirection": "upper_left",
-}
-
-renders["overworld_night_east"] = {
-	"world": "Overworld Night",
-	"title": "East",
-	"rendermode": "smooth_night",
-	"northdirection": "lower_left",
-}
-
-renders["overworld_night_south"] = {
-	"world": "Overworld Night",
-	"title": "South",
-	"rendermode": "smooth_night",
-	"northdirection": "lower_right",
-}
-
-renders["overworld_night_west"] = {
-	"world": "Overworld Night",
-	"title": "West",
-	"rendermode": "smooth_night",
-	"northdirection": "upper_right",
-}
-
 # Overworld Cave
 renders["overworld_cave_north"] = {
-	"world": "Overworld Cave",
-	"title": "North",
+	"world": "Overworld",
+	"title": "Cave North",
 	"rendermode": "cave",
 	"northdirection": "upper_left",
 }
 
 renders["overworld_cave_east"] = {
-	"world": "Overworld Cave",
-	"title": "East",
+	"world": "Overworld",
+	"title": "Cave East",
 	"rendermode": "cave",
 	"northdirection": "lower_left",
 }
 
 renders["overworld_cave_south"] = {
-	"world": "Overworld Cave",
-	"title": "South",
+	"world": "Overworld",
+	"title": "Cave South",
 	"rendermode": "cave",
 	"northdirection": "lower_right",
 }
 
 renders["overworld_cave_west"] = {
-	"world": "Overworld Cave",
-	"title": "West",
+	"world": "Overworld",
+	"title": "Cave West",
 	"rendermode": "cave",
 	"northdirection": "upper_right",
 }
@@ -98,28 +67,28 @@ renders["overworld_cave_west"] = {
 renders["nether_north"] = {
 	"world": "Nether",
 	"title": "North",
-	"rendermode": "nether",
+	"rendermode": "nether_smooth_lighting",
 	"northdirection": "upper_left",
 }
 
-renders["nether_east"] = {
+renders["nether_smooth_lighting_east"] = {
 	"world": "Nether",
 	"title": "East",
-	"rendermode": "nether",
+	"rendermode": "nether_smooth_lighting",
 	"northdirection": "lower_left",
 }
 
-renders["nether_south"] = {
+renders["nether_smooth_lighting_south"] = {
 	"world": "Nether",
 	"title": "South",
-	"rendermode": "nether",
+	"rendermode": "nether_smooth_lighting",
 	"northdirection": "lower_right",
 }
 
-renders["nether_west"] = {
+renders["nether_smooth_lighting_west"] = {
 	"world": "Nether",
 	"title": "West",
-	"rendermode": "nether",
+	"rendermode": "nether_smooth_lighting",
 	"northdirection": "upper_right",
 }
 
@@ -127,27 +96,27 @@ renders["nether_west"] = {
 renders["end_north"] = {
 	"world": "The End",
 	"title": "North",
-	"rendermode": "normal",
+	"rendermode": "smooth_lighting",
 	"northdirection": "upper_left",
 }
 
 renders["end_east"] = {
 	"world": "The End",
 	"title": "East",
-	"rendermode": "normal",
+	"rendermode": "smooth_lighting",
 	"northdirection": "lower_left",
 }
 
 renders["end_south"] = {
 	"world": "The End",
 	"title": "South",
-	"rendermode": "normal",
+	"rendermode": "smooth_lighting",
 	"northdirection": "lower_right",
 }
 
 renders["end_west"] = {
 	"world": "The End",
 	"title": "West",
-	"rendermode": "normal",
+	"rendermode": "smooth_lighting",
 	"northdirection": "upper_right",
 }
