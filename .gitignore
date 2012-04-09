@@ -5,4 +5,5 @@ ops.txt
 server.log
 server.properties
 white-list.txt
-
+/*.yml
+rendering
