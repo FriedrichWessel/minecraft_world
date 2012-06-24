@@ -2,7 +2,7 @@ worlds["Overworld"] = "world"
 worlds["Nether"] = "world_nether"
 worlds["The End"] = "world_the_end"
 
-processes = 8
+processes = 2
 outputdir = "rendering"
 
 # Overworld
