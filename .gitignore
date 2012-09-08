@@ -7,3 +7,4 @@ server.properties
 white-list.txt
 /*.yml
 rendering
+*.jar
