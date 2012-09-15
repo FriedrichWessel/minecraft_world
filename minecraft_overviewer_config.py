@@ -3,7 +3,8 @@ worlds["Nether"] = "world_nether"
 worlds["The End"] = "world_the_end"
 
 processes = 2
-outputdir = "rendering"
+outputdir = "rendering2"
+texturepath = "/root/dokucraft.zip"
 
 # Overworld
 renders["overworld_day_north"] = {
