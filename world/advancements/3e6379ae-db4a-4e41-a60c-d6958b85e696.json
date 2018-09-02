@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_at_least_9_wheat": "2018-09-02 19:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2018-07-31 20:29:56 +0000"
@@ -161,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2018-09-02 18:54:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2018-07-31 19:36:20 +0000"
@@ -206,6 +218,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2018-07-31 19:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2018-09-02 21:55:56 +0000"
     },
     "done": true
   },
@@ -257,9 +275,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2018-09-02 20:29:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2018-07-31 20:37:23 +0000"
+      "cooked_porkchop": "2018-09-02 19:53:24 +0000",
+      "cooked_mutton": "2018-07-31 20:37:23 +0000",
+      "cooked_cod": "2018-09-02 21:40:28 +0000",
+      "bread": "2018-09-02 20:18:41 +0000",
+      "mushroom_stew": "2018-09-02 21:52:19 +0000"
     },
     "done": false
   },
@@ -278,6 +306,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2018-07-31 19:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2018-09-02 20:53:05 +0000"
     },
     "done": true
   },
@@ -353,6 +387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2018-09-02 19:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2018-07-31 19:57:01 +0000"
@@ -380,6 +420,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2018-07-31 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2018-09-02 20:29:40 +0000"
     },
     "done": true
   },
@@ -418,6 +464,12 @@
       "has_bed": "2018-07-31 20:49:10 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2018-09-02 19:51:46 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -518,6 +570,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2018-07-31 19:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2018-09-02 19:51:22 +0000"
     },
     "done": true
   },
@@ -815,6 +873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2018-09-02 20:16:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2018-07-31 21:23:18 +0000"
@@ -878,6 +942,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-31 21:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2018-09-02 21:55:56 +0000"
     },
     "done": true
   },
@@ -1013,6 +1083,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2018-09-02 20:29:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2018-07-31 19:48:02 +0000"
@@ -1028,6 +1104,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2018-07-31 19:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2018-09-02 20:52:00 +0000"
     },
     "done": true
   },
@@ -1109,6 +1191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2018-09-02 21:55:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2018-07-31 20:55:35 +0000"
@@ -1175,6 +1263,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2018-09-02 19:46:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2018-07-31 19:36:58 +0000"
@@ -1223,6 +1317,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2018-09-02 20:52:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-31 20:49:10 +0000"
@@ -1232,6 +1332,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2018-07-31 19:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2018-09-02 19:51:46 +0000"
     },
     "done": true
   },
@@ -1310,6 +1416,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-31 21:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2018-09-02 18:54:21 +0000"
     },
     "done": true
   }
