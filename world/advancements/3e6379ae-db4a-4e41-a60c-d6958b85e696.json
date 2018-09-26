@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2018-09-26 19:43:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2018-09-02 19:41:02 +0000"
@@ -92,6 +98,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2018-07-31 20:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_at_least_9_redstone": "2018-09-26 20:09:20 +0000"
     },
     "done": true
   },
@@ -185,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2018-09-26 21:08:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-31 21:25:13 +0000"
@@ -218,6 +236,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2018-07-31 19:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2018-09-26 21:08:26 +0000"
     },
     "done": true
   },
@@ -287,7 +311,8 @@
       "cooked_mutton": "2018-07-31 20:37:23 +0000",
       "cooked_cod": "2018-09-02 21:40:28 +0000",
       "bread": "2018-09-02 20:18:41 +0000",
-      "mushroom_stew": "2018-09-02 21:52:19 +0000"
+      "mushroom_stew": "2018-09-02 21:52:19 +0000",
+      "cooked_salmon": "2018-09-26 19:36:42 +0000"
     },
     "done": false
   },
@@ -351,6 +376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2018-09-26 20:09:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-31 21:25:13 +0000"
@@ -363,13 +394,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-07-31 19:57:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-07-31 19:57:01 +0000"
     },
@@ -467,7 +498,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:chicken": "2018-09-02 19:51:46 +0000"
+      "minecraft:chicken": "2018-09-02 19:51:46 +0000",
+      "minecraft:sheep": "2018-09-26 19:54:46 +0000"
     },
     "done": false
   },
@@ -492,6 +524,18 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2018-07-31 20:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2018-09-26 20:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2018-09-26 21:08:26 +0000"
     },
     "done": true
   },
@@ -522,6 +566,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-31 21:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2018-09-26 21:08:26 +0000"
     },
     "done": true
   },
@@ -573,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-09-26 21:26:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2018-09-02 19:51:22 +0000"
@@ -582,6 +638,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2018-07-31 20:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2018-09-26 20:09:14 +0000"
     },
     "done": true
   },
@@ -687,6 +749,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2018-09-26 20:09:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2018-09-26 21:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2018-09-26 21:08:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2018-07-31 21:20:29 +0000"
@@ -702,12 +782,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2018-07-31 20:15:15 +0000",
+      "minecraft:enderman": "2018-09-26 20:36:48 +0000",
       "minecraft:spider": "2018-07-31 20:38:27 +0000",
       "minecraft:zombie": "2018-07-31 19:51:03 +0000",
       "minecraft:drowned": "2018-07-31 20:00:47 +0000",
       "minecraft:creeper": "2018-07-31 20:08:57 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2018-09-26 21:08:26 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
@@ -718,6 +805,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2018-07-31 19:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2018-09-26 20:09:20 +0000"
     },
     "done": true
   },
@@ -765,15 +858,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_at_least_9_lapis": "2018-09-26 20:49:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-31 21:25:13 +0000"
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2018-09-26 21:08:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-07-31 19:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2018-09-26 21:08:26 +0000"
     },
     "done": true
   },
@@ -855,6 +966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2018-09-26 20:49:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2018-07-31 20:30:35 +0000"
@@ -894,6 +1011,18 @@
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_bonemeal": "2018-07-31 20:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2018-09-26 21:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2018-09-26 20:49:50 +0000"
     },
     "done": true
   },
@@ -1125,6 +1254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2018-09-26 20:09:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2018-07-31 20:29:56 +0000"
@@ -1152,6 +1287,12 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-31 20:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2018-09-26 20:09:14 +0000"
     },
     "done": true
   },
@@ -1211,7 +1352,9 @@
       "minecraft:beach": "2018-07-31 19:52:50 +0000",
       "minecraft:river": "2018-07-31 19:36:59 +0000",
       "minecraft:birch_forest_hills": "2018-07-31 21:12:50 +0000",
-      "minecraft:stone_shore": "2018-07-31 19:51:30 +0000"
+      "minecraft:wooded_hills": "2018-09-26 21:42:15 +0000",
+      "minecraft:stone_shore": "2018-07-31 19:51:30 +0000",
+      "minecraft:swamp": "2018-09-26 21:35:39 +0000"
     },
     "done": false
   },
@@ -1245,6 +1388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2018-09-26 21:13:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2018-07-31 19:33:10 +0000"
@@ -1266,6 +1415,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2018-09-02 19:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2018-09-26 20:49:50 +0000"
     },
     "done": true
   },
@@ -1323,6 +1478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2018-09-26 20:49:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-31 20:49:10 +0000"
@@ -1353,9 +1514,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2018-09-26 20:09:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-31 21:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2018-09-26 21:08:26 +0000"
     },
     "done": true
   },
@@ -1374,6 +1547,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-31 20:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_the_recipe": "2018-09-26 20:38:43 +0000"
     },
     "done": true
   },
