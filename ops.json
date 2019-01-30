@@ -4,5 +4,17 @@
     "name": "asurma",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "60f75629-f0d4-47a2-bd91-b2852000df1f",
+    "name": "sonnenstraehne",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "27680548-1769-4d3b-9218-766a83cbf323",
+    "name": "auronderstreuner",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

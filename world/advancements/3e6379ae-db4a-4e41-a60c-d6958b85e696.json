@@ -394,13 +394,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-07-31 19:57:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-07-31 19:57:01 +0000"
     },
@@ -518,6 +518,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-31 20:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2019-01-30 22:37:39 +0000"
     },
     "done": true
   },
@@ -1074,6 +1080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2019-01-30 22:19:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2018-09-02 21:55:56 +0000"
@@ -1101,6 +1113,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2018-07-31 21:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2019-01-30 22:38:19 +0000"
     },
     "done": true
   },
@@ -1350,6 +1368,7 @@
       "minecraft:forest": "2018-07-31 19:25:28 +0000",
       "minecraft:birch_forest": "2018-07-31 19:53:04 +0000",
       "minecraft:beach": "2018-07-31 19:52:50 +0000",
+      "minecraft:dark_forest": "2019-01-30 21:10:09 +0000",
       "minecraft:river": "2018-07-31 19:36:59 +0000",
       "minecraft:birch_forest_hills": "2018-07-31 21:12:50 +0000",
       "minecraft:wooded_hills": "2018-09-26 21:42:15 +0000",
@@ -1499,6 +1518,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2018-09-02 19:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2019-01-30 22:37:39 +0000"
     },
     "done": true
   },
