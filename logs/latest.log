@@ -1,106 +1,361 @@
-[20:36:10] [main/INFO]: Loaded 0 recipes
-[20:36:10] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[20:36:10] [Server thread/INFO]: Loading properties
-[20:36:10] [Server thread/INFO]: Default game type: SURVIVAL
-[20:36:10] [Server thread/INFO]: Generating keypair
-[20:36:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:36:12] [Server thread/INFO]: Using epoll channel type
-[20:36:14] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ad6070d (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
-[20:36:14] [Server thread/INFO]: Preparing level "world"
-[20:36:14] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:36:17] [Server thread/INFO]: Loaded 524 recipes
-[20:36:19] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -6375358483191994977)
-[20:36:20] [Server thread/INFO]: Preparing spawn area: 4%
-[20:36:21] [Server thread/INFO]: Preparing spawn area: 8%
-[20:36:21] [Server thread/INFO]: Preparing spawn area: 12%
-[20:36:21] [Server thread/INFO]: Preparing spawn area: 16%
-[20:36:21] [Server thread/INFO]: Preparing spawn area: 20%
-[20:36:21] [Server thread/INFO]: Preparing spawn area: 24%
-[20:36:22] [Server thread/INFO]: Preparing spawn area: 28%
-[20:36:22] [Server thread/INFO]: Preparing spawn area: 32%
-[20:36:22] [Server thread/INFO]: Preparing spawn area: 36%
-[20:36:22] [Server thread/INFO]: Preparing spawn area: 40%
-[20:36:22] [Server thread/INFO]: Preparing spawn area: 44%
-[20:36:22] [Server thread/INFO]: Preparing spawn area: 48%
-[20:36:22] [Server thread/INFO]: Preparing spawn area: 52%
-[20:36:22] [Server thread/INFO]: Preparing spawn area: 56%
-[20:36:22] [Server thread/INFO]: Preparing spawn area: 60%
-[20:36:22] [Server thread/INFO]: Preparing spawn area: 64%
-[20:36:23] [Server thread/INFO]: Preparing spawn area: 68%
-[20:36:23] [Server thread/INFO]: Preparing spawn area: 72%
-[20:36:23] [Server thread/INFO]: Preparing spawn area: 76%
-[20:36:23] [Server thread/INFO]: Preparing spawn area: 80%
-[20:36:23] [Server thread/INFO]: Preparing spawn area: 84%
-[20:36:23] [Server thread/INFO]: Preparing spawn area: 88%
-[20:36:24] [Server thread/INFO]: Preparing spawn area: 92%
-[20:36:24] [Server thread/INFO]: Preparing spawn area: 96%
-[20:36:24] [Server thread/INFO]: Preparing spawn area: 100%
-[20:36:24] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -6375358483191994977)
-[20:36:24] [Server thread/INFO]: Preparing spawn area: 4%
-[20:36:24] [Server thread/INFO]: Preparing spawn area: 8%
-[20:36:24] [Server thread/INFO]: Preparing spawn area: 12%
-[20:36:24] [Server thread/INFO]: Preparing spawn area: 16%
-[20:36:25] [Server thread/INFO]: Preparing spawn area: 20%
-[20:36:25] [Server thread/INFO]: Preparing spawn area: 24%
-[20:36:25] [Server thread/INFO]: Preparing spawn area: 28%
-[20:36:25] [Server thread/INFO]: Preparing spawn area: 32%
-[20:36:25] [Server thread/INFO]: Preparing spawn area: 36%
-[20:36:25] [Server thread/INFO]: Preparing spawn area: 40%
-[20:36:25] [Server thread/INFO]: Preparing spawn area: 44%
-[20:36:25] [Server thread/INFO]: Preparing spawn area: 48%
-[20:36:25] [Server thread/INFO]: Preparing spawn area: 52%
-[20:36:26] [Server thread/INFO]: Preparing spawn area: 56%
-[20:36:26] [Server thread/INFO]: Preparing spawn area: 60%
-[20:36:26] [Server thread/INFO]: Preparing spawn area: 64%
-[20:36:26] [Server thread/INFO]: Preparing spawn area: 68%
-[20:36:26] [Server thread/INFO]: Preparing spawn area: 72%
-[20:36:26] [Server thread/INFO]: Preparing spawn area: 76%
-[20:36:26] [Server thread/INFO]: Preparing spawn area: 80%
-[20:36:26] [Server thread/INFO]: Preparing spawn area: 84%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 88%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 92%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 96%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 100%
-[20:36:27] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -6375358483191994977)
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 4%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 8%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 12%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 16%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 20%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 24%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 28%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 32%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 36%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 40%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 44%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 48%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 52%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 56%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 60%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 64%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 68%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 72%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 76%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 80%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 84%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 88%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 92%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 96%
-[20:36:27] [Server thread/INFO]: Preparing spawn area: 100%
-[20:36:27] [Server thread/INFO]: Time elapsed: 7690 ms
-[20:36:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:36:27] [Server thread/INFO]: Done (13.376s)! For help, type "help"
-[20:36:27] [Server thread/INFO]: Starting remote control listener
-[20:36:27] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
-[20:36:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
-[20:36:33] [User Authenticator #1/INFO]: UUID of player asurma is 3e6379ae-db4a-4e41-a60c-d6958b85e696
-[20:36:33] [User Authenticator #2/INFO]: UUID of player sonnenstraehne is 60f75629-f0d4-47a2-bd91-b2852000df1f
-[20:36:40] [Server thread/INFO]: asurma[/86.185.248.75:54998] logged in with entity id 202 at ([world]-236.79810082468535, 62.41546431064606, 816.2623426522782)
-[20:36:44] [Server thread/INFO]: sonnenstraehne[/79.209.65.34:55821] logged in with entity id 333 at ([world]45.83591290350607, 62.444864311218254, -140.07523501937644)
-[20:36:47] [User Authenticator #3/INFO]: UUID of player auronderstreuner is 27680548-1769-4d3b-9218-766a83cbf323
-[20:37:05] [Server thread/INFO]: auronderstreuner[/79.209.65.34:49907] logged in with entity id 390 at ([world]-162.96996142386533, 46.0, 251.74411090071294)
-[20:37:33] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[20:37:33] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[20:37:34] [Server Watchdog/ERROR]: This crash report has been saved to: /data/./crash-reports/crash-2019-02-20_20.37.34-server.txt
-[20:37:34] [Thread-2/INFO]: Stopping server
-[20:37:34] [Thread-2/INFO]: Saving players
+[20:42:43] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:42:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:42:43] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:42:43] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:42:43] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:42:43] [main/INFO]: Loaded 0 recipes
+[20:42:44] [Server thread/INFO]: Starting minecraft server version 1.13
+[20:42:44] [Server thread/INFO]: Loading properties
+[20:42:44] [Server thread/INFO]: Default game type: SURVIVAL
+[20:42:44] [Server thread/INFO]: Generating keypair
+[20:42:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:42:44] [Server thread/INFO]: Using epoll channel type
+[20:42:46] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-162bda9 (MC: 1.13) (Implementing API version 1.13-R0.1-SNAPSHOT)
+[20:42:46] [Server thread/INFO]: Preparing level "world"
+[20:42:46] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:42:48] [Server thread/INFO]: Loaded 524 recipes
+[20:42:50] [Server thread/INFO]: Preparing start region for level 0 (Seed: -6375358483191994977)
+[20:42:51] [Server thread/INFO]: Preparing spawn area: 4%
+[20:42:51] [Server thread/INFO]: Preparing spawn area: 8%
+[20:42:51] [Server thread/INFO]: Preparing spawn area: 12%
+[20:42:51] [Server thread/INFO]: Preparing spawn area: 16%
+[20:42:52] [Server thread/INFO]: Preparing spawn area: 20%
+[20:42:52] [Server thread/INFO]: Preparing spawn area: 24%
+[20:42:52] [Server thread/INFO]: Preparing spawn area: 28%
+[20:42:52] [Server thread/INFO]: Preparing spawn area: 32%
+[20:42:52] [Server thread/INFO]: Preparing spawn area: 36%
+[20:42:52] [Server thread/INFO]: Preparing spawn area: 40%
+[20:42:52] [Server thread/INFO]: Preparing spawn area: 44%
+[20:42:53] [Server thread/INFO]: Preparing spawn area: 48%
+[20:42:53] [Server thread/INFO]: Preparing spawn area: 52%
+[20:42:53] [Server thread/INFO]: Preparing spawn area: 56%
+[20:42:53] [Server thread/INFO]: Preparing spawn area: 60%
+[20:42:53] [Server thread/INFO]: Preparing spawn area: 64%
+[20:42:53] [Server thread/INFO]: Preparing spawn area: 68%
+[20:42:53] [Server thread/INFO]: Preparing spawn area: 72%
+[20:42:53] [Server thread/INFO]: Preparing spawn area: 76%
+[20:42:53] [Server thread/INFO]: Preparing spawn area: 80%
+[20:42:54] [Server thread/INFO]: Preparing spawn area: 84%
+[20:42:54] [Server thread/INFO]: Preparing spawn area: 88%
+[20:42:54] [Server thread/INFO]: Preparing spawn area: 92%
+[20:42:54] [Server thread/INFO]: Preparing spawn area: 96%
+[20:42:54] [Server thread/INFO]: Preparing spawn area: 100%
+[20:42:54] [Server thread/INFO]: Preparing start region for level 1 (Seed: -6375358483191994977)
+[20:42:54] [Server thread/INFO]: Preparing spawn area: 4%
+[20:42:54] [Server thread/INFO]: Preparing spawn area: 8%
+[20:42:54] [Server thread/INFO]: Preparing spawn area: 12%
+[20:42:54] [Server thread/INFO]: Preparing spawn area: 16%
+[20:42:54] [Server thread/INFO]: Preparing spawn area: 20%
+[20:42:54] [Server thread/INFO]: Preparing spawn area: 24%
+[20:42:55] [Server thread/INFO]: Preparing spawn area: 28%
+[20:42:55] [Server thread/INFO]: Preparing spawn area: 32%
+[20:42:55] [Server thread/INFO]: Preparing spawn area: 36%
+[20:42:55] [Server thread/INFO]: Preparing spawn area: 40%
+[20:42:55] [Server thread/INFO]: Preparing spawn area: 44%
+[20:42:55] [Server thread/INFO]: Preparing spawn area: 48%
+[20:42:55] [Server thread/INFO]: Preparing spawn area: 52%
+[20:42:55] [Server thread/INFO]: Preparing spawn area: 56%
+[20:42:55] [Server thread/INFO]: Preparing spawn area: 60%
+[20:42:55] [Server thread/INFO]: Preparing spawn area: 64%
+[20:42:55] [Server thread/INFO]: Preparing spawn area: 68%
+[20:42:56] [Server thread/INFO]: Preparing spawn area: 72%
+[20:42:56] [Server thread/INFO]: Preparing spawn area: 76%
+[20:42:56] [Server thread/INFO]: Preparing spawn area: 80%
+[20:42:56] [Server thread/INFO]: Preparing spawn area: 84%
+[20:42:56] [Server thread/INFO]: Preparing spawn area: 88%
+[20:42:56] [Server thread/INFO]: Preparing spawn area: 92%
+[20:42:56] [Server thread/INFO]: Preparing spawn area: 96%
+[20:42:56] [Server thread/INFO]: Preparing spawn area: 100%
+[20:42:56] [Server thread/INFO]: Preparing start region for level 2 (Seed: -6375358483191994977)
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 4%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 8%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 12%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 16%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 20%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 24%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 28%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 32%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 36%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 40%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 44%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 48%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 52%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 56%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 60%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 64%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 68%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 72%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 76%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 80%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 84%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 88%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 92%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 96%
+[20:42:58] [Server thread/INFO]: Preparing spawn area: 100%
+[20:42:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:42:58] [Server thread/INFO]: Time elapsed: 8162 ms
+[20:42:58] [Server thread/INFO]: Done (12.173s)! For help, type "help"
+[20:42:58] [Server thread/INFO]: Starting remote control listener
+[20:42:58] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[20:43:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[20:43:10] [User Authenticator #1/INFO]: UUID of player asurma is 3e6379ae-db4a-4e41-a60c-d6958b85e696
+[20:43:30] [Server thread/INFO]: asurma[/86.185.248.75:56965] logged in with entity id 209 at ([world]-285.9908348234894, 62.44486431121826, 795.6873009072522)
+[20:43:34] [User Authenticator #2/INFO]: UUID of player sonnenstraehne is 60f75629-f0d4-47a2-bd91-b2852000df1f
+[20:43:42] [Server thread/INFO]: sonnenstraehne[/79.209.65.34:55917] logged in with entity id 466 at ([world]51.33580499853796, 62.444864311218254, -92.28271172904783)
+[20:43:42] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -19.09761842569219,0.0,-5.962653060772823
+[20:43:42] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -19.390370669371464,0.0,-6.227137511986484
+[20:43:42] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -19.6849907174427,0.0,-6.490275527357653
+[20:43:42] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -19.981392614404115,0.0,-6.75207614488977
+[20:43:42] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -20.27948896064879,0.0,-7.012559112378085
+[20:43:42] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -20.579191190985682,0.0,-7.271753920738547
+[20:43:42] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -20.880412168516045,0.0,-7.529695905342578
+[20:43:42] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -21.183063761926633,0.0,-7.786428755424822
+[20:43:42] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -21.487061746830307,0.0,-8.041997686567584
+[20:43:42] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -21.792323109118627,0.0,-8.296452359567297
+[20:43:42] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -22.09877065877788,0.0,-8.549840402805899
+[20:43:42] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -22.406327802042597,0.0,-8.80221371565483
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -22.714920851055183,0.0,-9.053625031341767
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -23.024481095109195,0.0,-9.304124804903495
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -23.334941989528886,0.0,-9.553764505056733
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -23.646241278548246,0.0,-9.80259347299318
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -23.958318264190723,0.0,-10.05066220290837
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -24.27111828847643,0.0,-10.298016115362657
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -24.58458982346781,0.0,-10.544699130559025
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -24.898681863486445,0.0,-10.7907568898803
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -25.213348484796484,0.0,-11.036230459394233
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -25.52854834486095,0.0,-11.281156787384703
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -25.844239619762845,0.0,-11.525575257271726
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -26.160384660527257,0.0,-11.769521304819136
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -26.47694957935238,0.0,-12.013026820350774
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -26.79390157126278,0.0,-12.256123569208626
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -27.111211108055954,0.0,-12.498840138337187
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -27.428849315846264,0.0,-12.741205325624946
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -27.746790208137384,0.0,-12.983245047308287
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -28.06501038963262,0.0,-13.224982624273935
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -28.38348651351191,0.0,-13.466442122409148
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -28.702199858691415,0.0,-13.707642120196965
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -29.021131281417183,0.0,-13.948602417224038
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -29.340261264982928,0.0,-14.18934390648235
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -29.659574531681756,0.0,-14.429882314574456
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -29.979057327852388,0.0,-14.670231795442191
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -30.298694991597188,0.0,-14.910408164722753
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -30.61847432348327,0.0,-15.150425654626588
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -30.938383444021383,0.0,-15.390297076005254
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -31.25841166167146,0.0,-15.630033956762418
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -31.57854935032242,0.0,-15.869646670148313
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -31.898787850199824,0.0,-16.10914455581326
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -32.21911708017865,0.0,-16.348539096532136
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -32.5395302545748,0.0,-16.587837549712162
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -32.86001897894454,0.0,-16.827049524109498
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -33.180577985616935,0.0,-17.066180586789415
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -33.50120024636004,0.0,-17.305238828925667
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -33.821881719368264,0.0,-17.54422845175918
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -34.14261648341369,0.0,-17.783156317221824
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -34.46340149671954,0.0,-18.022025523962498
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -34.78423173435857,0.0,-18.260841937854707
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -35.1051026738964,0.0,-18.499610838184594
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -35.42601024514221,0.0,-18.738336976309597
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -35.74736398294834,0.0,-18.97645738035999
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -36.06987304588711,0.0,-19.212940694605095
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -36.39443244974109,0.0,-19.446352936737185
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -36.72200964706252,0.0,-19.67490674221358
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -37.053249938985346,0.0,-19.897143710907812
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -37.38854758613053,0.0,-20.11190634515549
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -37.72810719699106,0.0,-20.31829936618749
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -38.07198956366801,0.0,-20.515660796986822
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -38.420149024829186,0.0,-20.70353261296998
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -38.77230215141742,0.0,-20.882302965986582
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -39.128006486361926,0.0,-21.053053066018265
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -39.48668630077623,0.0,-21.217415140918092
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -39.84762457150424,0.0,-21.377439520746748
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -40.20993577472933,0.0,-21.535470073943202
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -40.5725280711348,0.0,-21.69403333667742
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -40.9340635877557,0.0,-21.855734660322355
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -41.293303139270336,0.0,-22.022565219243347
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -41.64913780308808,0.0,-22.196004551993383
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -42.00060409724608,0.0,-22.37711228773003
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -42.34688666953582,0.0,-22.566608749798547
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -42.687317113498864,0.0,-22.7649392604759
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -43.02136379448797,0.0,-22.972332452960245
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -43.34862287752446,0.0,-23.18884484150601
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -43.66880645629908,0.0,-23.414398921025054
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -43.98173181339382,0.0,-23.648813113038386
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -44.287306418003425,0.0,-23.891829452776733
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -44.585512386151265,0.0,-24.143136758546802
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -44.87640036455974,0.0,-24.402383437532762
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -45.16007357669463,0.0,-24.66919463993179
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -45.436682077076455,0.0,-24.94318026944609
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -45.70641379154051,0.0,-25.223943671666007
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -45.96948590212844,0.0,-25.51108879423805
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -46.22613665949427,0.0,-25.8042260573219
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -46.47662099243968,0.0,-26.102975252814872
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -46.721206340429035,0.0,-26.4069678705323
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -46.960778205746465,0.0,-26.715516754314194
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -47.1967064528215,0.0,-27.02766880962963
+[20:43:43] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -47.43071645602407,0.0,-27.342224280950063
+[20:43:44] [User Authenticator #3/INFO]: UUID of player auronderstreuner is 27680548-1769-4d3b-9218-766a83cbf323
+[20:43:53] [Server thread/INFO]: auronderstreuner[/79.209.65.34:49968] logged in with entity id 524 at ([world]-170.19039545132046, 39.5, 243.05469632982582)
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -17.01724765700203,0.0,-11.17668950106463
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -17.33794060914954,0.0,-11.410862180392883
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -17.661399824271598,0.0,-11.64127676267401
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -17.98749657375498,0.0,-11.868044649635522
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -18.31610015284366,0.0,-12.091288564467277
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -18.647076737148723,0.0,-12.311145072322233
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -18.980293781255114,0.0,-12.527756701076214
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -19.315620229825754,0.0,-12.741271529457208
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -19.652928436129685,0.0,-12.951839394682793
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -19.992094044698888,0.0,-13.15961183954596
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -20.332997610528707,0.0,-13.364738630074044
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -20.67552425331769,0.0,-13.567368013299415
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -21.019563331382415,0.0,-13.767646934351319
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -21.36501155682123,0.0,-13.965714366128964
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -21.71177061728298,0.0,-14.161705567319473
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -22.059746745467066,0.0,-14.35575249293447
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -22.40885370678643,0.0,-14.547977270143747
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -22.759008708236024,0.0,-14.73850008588522
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -23.11013377904385,0.0,-14.927435955483702
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -23.462156990905214,0.0,-15.114891803232013
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -23.815010207157627,0.0,-15.300970736014506
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -24.16863038744765,0.0,-15.485768981016918
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -24.522959089275616,0.0,-15.669376575559
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -24.877940361632113,0.0,-15.851881454326872
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -25.233523826258136,0.0,-16.033362745497357
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -25.589662466341224,0.0,-16.213895114046522
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -25.946312297821123,0.0,-16.393549211795175
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -26.30343207729061,0.0,-16.57239208244971
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -26.660984670782966,0.0,-16.75048405975633
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -27.01893500742534,0.0,-16.927882904879993
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -27.377251512257203,0.0,-17.10464059727974
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -27.73590412123656,0.0,-17.280807382987405
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -28.094864137598506,0.0,-17.456431949813123
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -28.454107365932543,0.0,-17.631554646677046
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -28.81361039124198,0.0,-17.806215253988853
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -29.17335213630514,0.0,-17.980449572253633
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -29.53331199622056,0.0,-18.154293290170358
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -29.893471426577435,0.0,-18.32777852943002
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -30.253813733681113,0.0,-18.50093419582845
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -30.614323889481568,0.0,-18.67378630644373
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -30.97498837245945,0.0,-18.84635827478303
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -31.335793381570454,0.0,-19.01867464310999
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -31.69672649214982,0.0,-19.19075749946137
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -32.05777652199947,0.0,-19.36262672493251
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -32.41893503881863,0.0,-19.534296738675266
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -32.7801911939078,0.0,-19.705787461867317
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -33.141536851389446,0.0,-19.87711335159736
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -33.50296468897409,0.0,-20.04828741924507
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -33.8644681166013,0.0,-20.219321375051663
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -34.22603957526502,0.0,-20.39022923020468
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -34.58767388981187,0.0,-20.561020122801892
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -34.949364774652,0.0,-20.731705749101593
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -35.3111082007066,0.0,-20.90229316190289
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -35.672898913852976,0.0,-21.07279218255792
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -36.03473381333271,0.0,-21.243208176450253
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -36.39660848051136,0.0,-21.41354944625823
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -36.758518938618124,0.0,-21.583823464391912
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -37.12046323278594,0.0,-21.75403348404984
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -37.48243797940785,0.0,-21.924185905081117
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -37.8444401332377,0.0,-22.09428648734979
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -38.20646695355407,0.0,-22.264340414733397
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -38.56851597370775,0.0,-22.434352352721476
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -38.93058660166628,0.0,-22.604323028284057
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -39.29267667664868,0.0,-22.77425656766468
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -39.65478425395213,0.0,-22.944156684482437
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -40.01690758334405,0.0,-23.11402672099439
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -40.37904508961526,0.0,-23.28386968523182
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -40.74119535507748,0.0,-23.453688284422924
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -41.103357103811334,0.0,-23.62348495507274
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -41.46552918748938,0.0,-23.793261890036092
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -41.82771057261692,0.0,-23.963021062882035
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -42.18990032904878,0.0,-24.132764249822685
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -42.552099243880946,0.0,-24.302489575615823
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -42.91430640127311,0.0,-24.472198826376598
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -43.276520976969095,0.0,-24.641893609608587
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -43.63874222913836,0.0,-24.811575372065022
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -44.0009694901334,0.0,-24.981245415823764
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -44.363202159071534,0.0,-25.15090491275498
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -44.725439695158286,0.0,-25.320554917541585
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -45.08768161167865,0.0,-25.490196379398185
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -45.449927470589216,0.0,-25.659830152618156
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -45.81217687765087,0.0,-25.82945700606524
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -46.17442947804835,0.0,-25.999077631716887
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -46.53668495244807,0.0,-26.168692652352775
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -46.898943013449696,0.0,-26.338302628474707
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -47.261203402392994,0.0,-26.50790806453415
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -47.62346588648376,0.0,-26.67750941453744
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -47.98573025620715,0.0,-26.847107087090308
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -48.347996322999904,0.0,-27.01670144993784
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -48.71026391715503,0.0,-27.186292834050732
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -49.072532885936255,0.0,-27.35588153730248
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -49.434803091880894,0.0,-27.525467827779153
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -49.797074411272604,0.0,-27.69505194675844
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -50.159346732766664,0.0,-27.86463411139016
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -50.52161995615285,0.0,-28.034214517109035
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -50.88389399124185,0.0,-28.203793339806452
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -51.246168756863426,0.0,-28.373370737784512
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -51.608444179964295,0.0,-28.542946853515218
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -51.970720194796456,0.0,-28.71252181522334
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -52.33299674218682,0.0,-28.88209573831125
+[20:43:53] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -52.69527376887953,0.0,-29.051668726640855
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -53.05755122694438,0.0,-29.22124087368809
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -53.4198290732441,0.0,-29.39081226358121
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -53.7821072689552,0.0,-29.560382972035654
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -54.14438577913654,0.0,-29.72995306719531
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -54.506664572341094,0.0,-29.899522610389567
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -54.86894362026652,0.0,-30.06909165681509
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -55.23122289744077,0.0,-30.238660256148705
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -55.5935023809389,0.0,-30.408228453099696
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -55.95578205012856,0.0,-30.577796287906267
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -56.318061886440546,0.0,-30.747363796782793
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -56.68034187316266,0.0,-30.91693101232238
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -57.04262199525385,0.0,-31.086497963858733
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -57.40490223917726,0.0,-31.25606467779221
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -57.767182592749634,0.0,-31.42563117788302
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -58.12946304500605,0.0,-31.59519748551554
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -58.491743586078144,0.0,-31.76476361993548
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -58.85402420708431,0.0,-31.93432959846416
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -59.21630490003116,0.0,-32.10389543669078
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -59.5785856577246,0.0,-32.273461148645424
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -59.940866473689994,0.0,-32.44302674695541
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -60.30314734210015,0.0,-32.6125922429851
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -60.66542825771057,0.0,-32.78215764696256
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -61.027709215801224,0.0,-32.95172296809301
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -61.38999021212413,0.0,-33.12128821466115
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -61.75227124285601,0.0,-33.290853394123246
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -62.114552304556014,0.0,-33.46041851318989
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -62.476833394127254,0.0,-33.6299835779007
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -62.8391145087827,0.0,-33.799548593691156
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -63.20139564601385,0.0,-33.96911356545331
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -63.56367680356317,0.0,-34.138678497590035
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -63.925957979398845,0.0,-34.30824339406388
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -64.28823917169223,0.0,-34.47780825844109
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -64.65052037879758,0.0,-34.64737309393138
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -65.01280159923368,0.0,-34.81693790342342
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -65.37537317706801,0.0,-34.98586799318241
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -65.73872731544708,0.0,-35.153006675032884
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -66.10345791615163,0.0,-35.31676616413074
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -66.47015925932772,0.0,-35.47519837592915
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -66.83932553554894,0.0,-35.62606056197103
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -67.21125528749974,0.0,-35.766885160761944
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -67.58596689015792,0.0,-35.895045930983315
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -67.96312580964536,0.0,-36.007838278525924
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -68.34198647129193,0.0,-36.102550701684436
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -68.7215436360425,0.0,-36.17723799501778
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -69.1006706024479,0.0,-36.23060611882852
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -69.47821796963188,0.0,-36.26190706271109
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -69.85308109608923,0.0,-36.27084097615648
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -70.22424383645472,0.0,-36.257468635579585
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -70.59080713850511,0.0,-36.22213857761244
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -70.95199623969029,0.0,-36.16541307383727
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -17.059691606788306,0.0,-10.9066522355796
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -17.05875747470583,0.0,-10.929053644062492
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -17.057837306587658,0.0,-10.949359413310958
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -17.0569365829229,0.0,-10.967765379603748
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -17.056060381438044,0.0,-10.984447879406048
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -17.05521341737301,0.0,-10.999565688175267
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -17.054396253856794,0.0,-11.013268435419263
+[20:43:54] [Server thread/WARN]: Boat (vehicle of asurma) moved too quickly! -17.05326118364553,0.0,-11.02628680619921
+[20:44:04] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[20:44:04] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[20:44:04] [Server Watchdog/ERROR]: This crash report has been saved to: /data/./crash-reports/crash-2019-02-20_20.44.04-server.txt
+[20:44:05] [Thread-2/INFO]: Stopping server
+[20:44:05] [Thread-2/INFO]: Saving players
