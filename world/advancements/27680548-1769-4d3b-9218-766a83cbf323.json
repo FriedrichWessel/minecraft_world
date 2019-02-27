@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2019-02-27 22:11:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2018-07-31 19:31:56 +0000"
@@ -523,6 +529,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2019-02-27 22:16:47 +0000",
       "minecraft:chicken": "2018-09-26 21:01:44 +0000",
       "minecraft:sheep": "2018-09-26 21:25:09 +0000"
     },
@@ -829,6 +836,7 @@
       "minecraft:spider": "2018-09-26 20:12:29 +0000",
       "minecraft:zombie": "2018-09-02 21:16:14 +0000",
       "minecraft:drowned": "2018-07-31 20:12:31 +0000",
+      "minecraft:creeper": "2019-02-27 21:10:13 +0000",
       "minecraft:slime": "2018-09-26 21:06:17 +0000"
     },
     "done": false
@@ -1112,6 +1120,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-31 20:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2019-02-27 22:15:24 +0000"
     },
     "done": true
   },
@@ -1529,6 +1543,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2018-07-31 19:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2019-02-27 22:11:28 +0000"
     },
     "done": true
   },

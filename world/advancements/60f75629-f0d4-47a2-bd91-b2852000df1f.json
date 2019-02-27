@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2019-02-27 20:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2018-09-02 19:32:08 +0000"
@@ -80,6 +86,18 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2018-07-31 19:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-02-27 20:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2019-02-27 20:36:33 +0000"
     },
     "done": true
   },
@@ -176,6 +194,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-07-31 20:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2019-02-27 20:38:29 +0000"
     },
     "done": true
   },
@@ -471,6 +495,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2018-07-31 20:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2019-02-27 21:22:51 +0000"
     },
     "done": true
   },
@@ -770,6 +800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2019-02-27 20:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp": {
     "criteria": {
       "has_at_least_9_dried_kelp": "2018-09-02 19:32:08 +0000"
@@ -815,6 +851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-02-27 20:38:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2018-07-31 20:13:01 +0000"
@@ -842,6 +884,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2019-01-30 21:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2019-02-27 20:38:29 +0000"
     },
     "done": true
   },
@@ -1067,6 +1115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2019-02-27 20:38:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2018-07-31 20:32:55 +0000"
@@ -1181,6 +1235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2019-02-27 20:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2018-09-26 21:22:29 +0000"
@@ -1202,6 +1262,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2018-09-26 21:22:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2019-02-27 20:38:10 +0000"
     },
     "done": true
   },
@@ -1301,6 +1367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-02-27 20:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_at_least_9_coal": "2018-07-31 19:41:33 +0000"
@@ -1381,6 +1453,7 @@
       "minecraft:desert_hills": "2019-01-30 21:30:52 +0000",
       "minecraft:desert": "2019-01-30 21:21:31 +0000",
       "minecraft:birch_forest": "2018-07-31 19:53:03 +0000",
+      "minecraft:warm_ocean": "2019-02-27 22:07:25 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-01-30 22:32:11 +0000",
       "minecraft:beach": "2018-07-31 19:53:12 +0000",
       "minecraft:dark_forest": "2019-01-30 21:11:48 +0000",
@@ -1509,6 +1582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2019-02-27 20:36:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2018-07-31 20:13:01 +0000"
@@ -1578,6 +1657,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2018-09-26 21:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-02-27 20:38:29 +0000"
     },
     "done": true
   },
