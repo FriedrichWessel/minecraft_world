@@ -317,6 +317,7 @@
       "cooked_mutton": "2018-07-31 20:37:23 +0000",
       "cooked_cod": "2018-09-02 21:40:28 +0000",
       "bread": "2018-09-02 20:18:41 +0000",
+      "cooked_chicken": "2019-02-27 22:35:32 +0000",
       "mushroom_stew": "2018-09-02 21:52:19 +0000",
       "cooked_salmon": "2018-09-26 19:36:42 +0000"
     },
@@ -785,13 +786,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-09-26 21:08:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-09-26 21:08:26 +0000"
     },
@@ -1407,12 +1408,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-02-27 22:14:19 +0000",
+      "minecraft:snowy_mountains": "2019-02-27 22:36:21 +0000",
       "minecraft:forest": "2018-07-31 19:25:28 +0000",
       "minecraft:mountains": "2018-07-31 19:37:07 +0000",
       "minecraft:taiga": "2019-02-27 21:06:56 +0000",
       "minecraft:desert_hills": "2019-02-27 21:27:49 +0000",
+      "minecraft:deep_cold_ocean": "2019-02-27 22:37:41 +0000",
+      "minecraft:snowy_tundra": "2019-02-27 22:34:11 +0000",
       "minecraft:desert": "2019-02-27 21:22:28 +0000",
+      "minecraft:frozen_river": "2019-02-27 22:34:04 +0000",
       "minecraft:birch_forest": "2018-07-31 19:53:04 +0000",
+      "minecraft:snowy_beach": "2019-02-27 22:37:20 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-02-27 21:00:54 +0000",
       "minecraft:beach": "2018-07-31 19:52:50 +0000",
       "minecraft:dark_forest": "2019-01-30 21:10:09 +0000",
